@@ -1,7 +1,7 @@
 # Projekt zaliczeniowy na przedmiot TAKE
 
-Temat: Restauracja
+### Temat: Restauracja
 
-Autorzy:
-Artur Kubek
-Rafał Sularczyk
+### Autorzy:
+ - Rafał Sularczyk
+ - Artur Kubek
