@@ -31,3 +31,22 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### OS specific ###
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux / macOS
+*~
+.directory
+.DS_Store
+
+### Log files ###
+*.log
+
+### Local configuration files ###
+application-local.properties
+application-dev.properties
+.env
