@@ -1,4 +1,4 @@
-package pl.polsl.take.restaurant.model;
+package pl.polsl.take.restaurant.model.enums;
 
 public enum OrderStatus {
     OPEN,
